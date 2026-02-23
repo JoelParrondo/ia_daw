@@ -30,26 +30,15 @@ Define 3 métricas con valores antes/después:
 - Calidad: Variable -> Más consistente y rápida
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
-[Cliente envía ticket]
-          |
-          v
- [IA analiza el texto]
-          |
-          v
- [Clasificación automática]
-          |
-          v
- ¿Incidencia compleja?
-        /   \
-      NO     SÍ
-      |       |
-      v       v
-[Respuesta   [Asignación
- automática]  a técnico]
-                  |
-                  v
-        [Resolución humana]
-
+```mermaid
+flowchart TD
+    A[Cliente envía ticket] --> B[IA analiza el texto]
+    B --> C[Clasificación automática]
+    C --> D{¿Incidencia compleja?}
+    D -->|No| E[Respuesta automática]
+    D -->|Sí| F[Asignación a técnico]
+    F --> G[Resolución humana]
+```
 ## 6) Riesgos y mitigación
 - Riesgo 1: Clasificación incorrecta del ticket.
   - Mitigación 1: Revisión humana y reentrenamiento del modelo.
