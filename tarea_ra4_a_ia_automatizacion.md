@@ -30,19 +30,31 @@ Define 3 métricas con valores antes/después:
 - Calidad: Variable -> Más consistente y rápida
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
-flowchart TD
-    A[Cliente envía ticket] --> B[IA analiza texto]
-    B --> C[Clasificación automática]
-    C --> D{¿Incidencia compleja?}
-    D -- No --> E[Respuesta automática]
-    D -- Sí --> F[Asignación a técnico]
-    F --> G[Resolución humana]
+[Cliente envía ticket]
+          |
+          v
+ [IA analiza el texto]
+          |
+          v
+ [Clasificación automática]
+          |
+          v
+ ¿Incidencia compleja?
+        /   \
+      NO     SÍ
+      |       |
+      v       v
+[Respuesta   [Asignación
+ automática]  a técnico]
+                  |
+                  v
+        [Resolución humana]
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Clasificación incorrecta del ticket.
+  - Mitigación 1: Revisión humana y reentrenamiento del modelo.
+- Riesgo 2: Respuestas automáticas inadecuadas.
+  - Mitigación 2: Limitar la IA a respuestas de primer nivel y FAQs.
 
 ## 7) Fuente oficial
-- Enlace: 
+- Enlace: https://developers.openai.com/api/docs
