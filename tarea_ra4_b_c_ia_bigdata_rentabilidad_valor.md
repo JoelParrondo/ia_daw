@@ -83,12 +83,12 @@ Es Big Data porque cumple las 3V:
 ```mermaid
 flowchart LR
 A[Fuentes de datos] --> B[Ingesta]
-B --> C[Limpieza y normalización]
+B --> C[Limpieza y normalizacion]
 C --> D[Data Lake]
 D --> E[Feature Engineering]
-E --> F[Modelo IA (LSTM)]
-F --> G[Predicción demanda]
-G --> H[Decisiones logísticas]
+E --> F[Modelo IA LSTM]
+F --> G[Prediccion de demanda]
+G --> H[Decisiones logisticas]
 H --> I[Impacto en KPIs]
 ```
 
