@@ -75,3 +75,59 @@ Es Big Data porque cumple las 3V:
 * Antes: 4 rotaciones/año
 * Después: 6 rotaciones/año
 * Mejora: Mayor eficiencia del capital invertido en stock.
+
+---
+
+## 6) Diagrama del pipeline
+
+```mermaid
+flowchart LR
+A[Fuentes de datos] --> B[Ingesta]
+B --> C[Limpieza y normalización]
+C --> D[Data Lake]
+D --> E[Feature Engineering]
+E --> F[Modelo IA (LSTM)]
+F --> G[Predicción demanda]
+G --> H[Decisiones logísticas]
+H --> I[Impacto en KPIs]
+```
+
+---
+
+## 7) Riesgos y mitigación
+
+**Riesgo 1:** Datos incompletos o sesgados.
+
+* **Mitigación:** Validación automática y auditorías periódicas de calidad de datos.
+
+**Riesgo 2:** Sobredependencia del modelo (errores de predicción).
+
+* **Mitigación:** Supervisión humana + actualización continua del modelo (retraining mensual).
+
+---
+
+## 8) Valoración (criterio c): importancia presente y futura de la IA
+
+* **Importancia actual (hoy):**
+  La IA ya es clave en retail para previsión de demanda, personalización y optimización logística. Permite decisiones basadas en datos en tiempo real y mejora directa de la rentabilidad. Empresas como Amazon han demostrado que la ventaja competitiva depende del uso intensivo de datos e IA.
+
+* **Importancia futura (3–5 años):**
+  La IA será aún más estratégica con modelos generativos, automatización total de cadenas de suministro y decisiones autónomas. La integración con IoT y análisis predictivo avanzado permitirá cadenas casi auto-gestionadas.
+
+* **Condiciones/limitaciones:**
+  Necesidad de datos de calidad, inversión tecnológica alta, regulación (RGPD), ciberseguridad y formación del personal. Riesgo ético si se usan datos personales sin transparencia.
+
+* **Conclusión razonada:**
+  La IA no solo optimiza procesos actuales sino que redefine el modelo de negocio. Las empresas que integren Big Data e IA de forma estratégica serán más competitivas, eficientes y rentables en el medio y largo plazo.
+
+---
+
+## 9) Fuentes oficiales
+
+* **Big Data/analítica:** Comisión Europea – Estrategia Europea de Datos
+  [https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_es](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_es)
+
+* **IA/técnica/modelo:** Documentación oficial TensorFlow (LSTM y redes neuronales)
+  [https://www.tensorflow.org/guide/keras/rnn](https://www.tensorflow.org/guide/keras/rnn)
+
+---
