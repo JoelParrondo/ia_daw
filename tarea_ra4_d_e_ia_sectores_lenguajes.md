@@ -269,3 +269,10 @@ Para los desarrolladores web y de aplicaciones, conocer estas tecnologías permi
 - automatización
 - sistemas de recomendación
 - asistentes virtuales
+
+---
+
+# 8. Fuentes oficiales
+
+- IBM – Aplicaciones de IA en diferentes industrias  
+- IEEE – Tecnologías y lenguajes utilizados en inteligencia artificial
