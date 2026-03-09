@@ -187,10 +187,12 @@ Visión artificial
 Sistemas de conducción autónoma
 
 4) Relación entre sectores, tipo de IA y lenguaje
-Sector	Aplicación de IA	Tipo de IA/técnica	Lenguaje recomendado	Justificación
-Salud	Diagnóstico por imagen	Deep Learning / Visión artificial	Python	Gran cantidad de librerías para análisis de imágenes médicas
-Comercio electrónico	Recomendación de productos	Machine Learning	Python	Facilita el análisis de datos de usuarios
-Transporte	Conducción autónoma	Visión artificial y aprendizaje profundo	C++	Permite ejecutar algoritmos en tiempo real con alto rendimiento
+| Sector               | Aplicación de IA           | Tipo de IA/técnica                       | Lenguaje recomendado | Justificación                                                   |
+| -------------------- | -------------------------- | ---------------------------------------- | -------------------- | --------------------------------------------------------------- |
+| Salud                | Diagnóstico por imagen     | Deep Learning / Visión artificial        | Python               | Gran cantidad de librerías para análisis de imágenes médicas    |
+| Comercio electrónico | Recomendación de productos | Machine Learning                         | Python               | Facilita el análisis de datos de usuarios                       |
+| Transporte           | Conducción autónoma        | Visión artificial y aprendizaje profundo | C++                  | Permite ejecutar algoritmos en tiempo real con alto rendimiento |
+
 
 5) Diagrama (Mermaid)
 (Pega aquí el diagrama)
