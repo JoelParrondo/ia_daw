@@ -89,40 +89,110 @@ Menor consumo de combustible
 
 Optimización logística
 
-## 3) Lenguajes de programación en IA
+3) Lenguajes de programación en IA
+Lenguaje 1
 
-### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+Nombre:
+Python
 
-### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+Uso principal en IA:
+Desarrollo de modelos de machine learning, deep learning y análisis de datos.
 
-### Lenguaje 3
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+Ventajas:
 
-### Lenguaje 4
-- Nombre:
-- Uso principal en IA:
-- Ventajas:
-- Ejemplos de uso:
+Gran cantidad de librerías especializadas
 
-## 4) Relación entre sectores, tipo de IA y lenguaje
-| Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
-|--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+Sintaxis sencilla
 
-## 5) Diagrama (ASCII o Mermaid)
+Amplia comunidad
+
+Ejemplos de uso:
+
+Modelos de predicción
+
+Sistemas de recomendación
+
+Procesamiento de lenguaje natural
+
+Lenguaje 2
+
+Nombre:
+R
+
+Uso principal en IA:
+Análisis estadístico y ciencia de datos.
+
+Ventajas:
+
+Potente para análisis estadístico
+
+Gran cantidad de paquetes para visualización de datos
+
+Muy utilizado en investigación
+
+Ejemplos de uso:
+
+Análisis de datos
+
+Modelos predictivos
+
+Visualización de resultados
+
+Lenguaje 3
+
+Nombre:
+Java
+
+Uso principal en IA:
+Desarrollo de aplicaciones empresariales con IA integrada.
+
+Ventajas:
+
+Alto rendimiento
+
+Escalabilidad
+
+Integración sencilla con sistemas empresariales
+
+Ejemplos de uso:
+
+Sistemas de recomendación
+
+Aplicaciones financieras
+
+Sistemas de análisis de datos
+
+Lenguaje 4
+
+Nombre:
+C++
+
+Uso principal en IA:
+Desarrollo de sistemas de alto rendimiento y aplicaciones en tiempo real.
+
+Ventajas:
+
+Gran velocidad de ejecución
+
+Control sobre los recursos del sistema
+
+Muy utilizado en robótica y vehículos autónomos
+
+Ejemplos de uso:
+
+Robótica
+
+Visión artificial
+
+Sistemas de conducción autónoma
+
+4) Relación entre sectores, tipo de IA y lenguaje
+Sector	Aplicación de IA	Tipo de IA/técnica	Lenguaje recomendado	Justificación
+Salud	Diagnóstico por imagen	Deep Learning / Visión artificial	Python	Gran cantidad de librerías para análisis de imágenes médicas
+Comercio electrónico	Recomendación de productos	Machine Learning	Python	Facilita el análisis de datos de usuarios
+Transporte	Conducción autónoma	Visión artificial y aprendizaje profundo	C++	Permite ejecutar algoritmos en tiempo real con alto rendimiento
+
+5) Diagrama (Mermaid)
 (Pega aquí el diagrama)
 
 ## 6) Riesgos y mitigación
