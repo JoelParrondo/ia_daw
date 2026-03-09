@@ -1,4 +1,4 @@
-# 🤖 Práctica IA (RA4 · d+e)
+# Práctica IA (RA4 · d+e)
 ## Sectores con implantación relevante y lenguajes de programación en IA
 
 ---
@@ -15,7 +15,7 @@ Para los desarrolladores web y de aplicaciones multiplataforma (DAW/DAM), conoce
 
 # 2. Sectores con implantación relevante de IA
 
-## 🏥 Sector 1: Salud
+## Sector 1: Salud
 
 **Tipo de empresa/servicio**
 
@@ -49,7 +49,7 @@ La IA permite analizar grandes cantidades de datos médicos con mayor rapidez y 
 
 ---
 
-## 🛒 Sector 2: Comercio electrónico
+## Sector 2: Comercio electrónico
 
 **Tipo de empresa/servicio**
 
@@ -82,7 +82,7 @@ Las plataformas de comercio electrónico manejan enormes cantidades de datos de 
 
 ---
 
-## 🚗 Sector 3: Transporte y movilidad
+## Sector 3: Transporte y movilidad
 
 **Tipo de empresa/servicio**
 
@@ -115,7 +115,7 @@ Los vehículos y sistemas de transporte utilizan sensores, cámaras y GPS que ge
 
 # 3. Lenguajes de programación en IA
 
-## 🐍 Python
+## Python
 
 **Uso principal en IA**
 
@@ -137,7 +137,7 @@ Los vehículos y sistemas de transporte utilizan sensores, cámaras y GPS que ge
 
 ---
 
-## 📊 R
+## R
 
 **Uso principal en IA**
 
@@ -158,7 +158,7 @@ Los vehículos y sistemas de transporte utilizan sensores, cámaras y GPS que ge
 
 ---
 
-## ☕ Java
+## Java
 
 **Uso principal en IA**
 
@@ -178,7 +178,7 @@ Aplicaciones empresariales con IA integrada.
 
 ---
 
-## ⚙️ C++
+## C++
 
 **Uso principal en IA**
 
