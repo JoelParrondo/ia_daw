@@ -1,213 +1,271 @@
-Práctica IA (RA4 · d+e) — Sectores con implantación relevante y lenguajes de programación en IA
-1) Introducción
+# 🤖 Práctica IA (RA4 · d+e)
+## Sectores con implantación relevante y lenguajes de programación en IA
 
-Objetivo de la práctica:
-El objetivo de esta práctica es identificar sectores donde la Inteligencia Artificial tiene una implantación relevante y analizar los lenguajes de programación más utilizados para desarrollar sistemas de IA.
+---
 
-Relación con DAW/DAM:
+# 1. Introducción
+
+## Objetivo de la práctica
+El objetivo de esta práctica es identificar sectores donde la Inteligencia Artificial (IA) tiene una implantación relevante y analizar los lenguajes de programación más utilizados para desarrollar sistemas de IA.
+
+## Relación con DAW/DAM
 Para los desarrolladores web y de aplicaciones multiplataforma (DAW/DAM), conocer cómo se integra la IA en diferentes sectores permite crear aplicaciones más inteligentes, como sistemas de recomendación, chatbots, análisis de datos o automatización de procesos.
 
-2) Sectores con implantación relevante de IA
-Sector 1
+---
 
-Nombre del sector:
-Salud
+# 2. Sectores con implantación relevante de IA
 
-Tipo de empresa/servicio:
-Hospitales, clínicas, laboratorios médicos y empresas de tecnología sanitaria.
+## 🏥 Sector 1: Salud
 
-Aplicación de IA:
-Diagnóstico asistido por inteligencia artificial mediante análisis de imágenes médicas.
+**Tipo de empresa/servicio**
 
-Qué tarea mejora o automatiza:
-El análisis de radiografías, resonancias magnéticas o tomografías para detectar enfermedades como cáncer o problemas neurológicos.
+- Hospitales  
+- Clínicas  
+- Laboratorios médicos  
+- Empresas de tecnología sanitaria  
 
-Por qué la IA tiene implantación relevante en este sector:
-Porque permite analizar grandes cantidades de datos médicos con mayor rapidez y precisión que los métodos tradicionales.
+**Aplicación de IA**
 
-Beneficios que aporta:
+Diagnóstico asistido mediante análisis de imágenes médicas.
 
-Diagnósticos más rápidos
+**Qué tarea mejora o automatiza**
 
-Reducción de errores médicos
+- Análisis de radiografías
+- Resonancias magnéticas
+- Tomografías
 
-Mejora en la detección temprana de enfermedades
+Permite detectar enfermedades como cáncer o problemas neurológicos.
 
-Apoyo a los profesionales sanitarios
+**Por qué la IA tiene implantación relevante**
 
-Sector 2
+La IA permite analizar grandes cantidades de datos médicos con mayor rapidez y precisión que los métodos tradicionales.
 
-Nombre del sector:
-Comercio electrónico
+**Beneficios**
 
-Tipo de empresa/servicio:
-Tiendas online, marketplaces y plataformas de venta digital.
+- Diagnósticos más rápidos  
+- Reducción de errores médicos  
+- Detección temprana de enfermedades  
+- Apoyo a profesionales sanitarios  
 
-Aplicación de IA:
+---
+
+## 🛒 Sector 2: Comercio electrónico
+
+**Tipo de empresa/servicio**
+
+- Tiendas online  
+- Marketplaces  
+- Plataformas de venta digital  
+
+**Aplicación de IA**
+
 Sistemas de recomendación de productos.
 
-Qué tarea mejora o automatiza:
-La recomendación automática de productos según el comportamiento del usuario.
+**Qué tarea mejora o automatiza**
 
-Por qué la IA tiene implantación relevante en este sector:
-Las tiendas online manejan enormes cantidades de datos de clientes, lo que permite usar IA para analizar hábitos de compra.
+La recomendación automática de productos según:
 
-Beneficios que aporta:
+- historial de compras
+- búsquedas
+- comportamiento del usuario
 
-Mejora de la experiencia del usuario
+**Por qué la IA tiene implantación relevante**
 
-Aumento de las ventas
+Las plataformas de comercio electrónico manejan enormes cantidades de datos de usuarios, lo que permite aplicar modelos de aprendizaje automático.
 
-Personalización de contenidos
+**Beneficios**
 
-Mejores estrategias de marketing
+- Mejor experiencia del usuario  
+- Aumento de ventas  
+- Personalización de contenido  
+- Marketing más eficiente  
 
-Sector 3
+---
 
-Nombre del sector:
-Transporte y movilidad
+## 🚗 Sector 3: Transporte y movilidad
 
-Tipo de empresa/servicio:
-Empresas de transporte, logística y desarrollo de vehículos autónomos.
+**Tipo de empresa/servicio**
 
-Aplicación de IA:
+- Empresas de transporte  
+- Empresas de logística  
+- Desarrollo de vehículos autónomos  
+
+**Aplicación de IA**
+
 Conducción autónoma y optimización de rutas.
 
-Qué tarea mejora o automatiza:
-La conducción del vehículo, el reconocimiento de señales de tráfico y la planificación de rutas.
+**Qué tarea mejora o automatiza**
 
-Por qué la IA tiene implantación relevante en este sector:
-La IA permite procesar datos en tiempo real procedentes de sensores, cámaras y sistemas GPS.
+- Conducción automática  
+- Reconocimiento de señales de tráfico  
+- Planificación de rutas eficientes  
 
-Beneficios que aporta:
+**Por qué la IA tiene implantación relevante**
 
-Reducción de accidentes
+Los vehículos y sistemas de transporte utilizan sensores, cámaras y GPS que generan datos en tiempo real que la IA puede procesar.
 
-Mejora de la eficiencia del transporte
+**Beneficios**
 
-Menor consumo de combustible
+- Reducción de accidentes  
+- Transporte más eficiente  
+- Menor consumo de combustible  
+- Optimización logística  
 
-Optimización logística
+---
 
-3) Lenguajes de programación en IA
-Lenguaje 1
+# 3. Lenguajes de programación en IA
 
-Nombre:
-Python
+## 🐍 Python
 
-Uso principal en IA:
-Desarrollo de modelos de machine learning, deep learning y análisis de datos.
+**Uso principal en IA**
 
-Ventajas:
+- Machine Learning  
+- Deep Learning  
+- Análisis de datos  
 
-Gran cantidad de librerías especializadas
+**Ventajas**
 
-Sintaxis sencilla
+- Sintaxis sencilla  
+- Gran comunidad  
+- Muchas librerías especializadas  
 
-Amplia comunidad
+**Ejemplos de uso**
 
-Ejemplos de uso:
+- Sistemas de recomendación  
+- Predicción de datos  
+- Procesamiento de lenguaje natural  
 
-Modelos de predicción
+---
 
-Sistemas de recomendación
+## 📊 R
 
-Procesamiento de lenguaje natural
+**Uso principal en IA**
 
-Lenguaje 2
+- Análisis estadístico  
+- Ciencia de datos  
 
-Nombre:
-R
+**Ventajas**
 
-Uso principal en IA:
-Análisis estadístico y ciencia de datos.
+- Potente análisis estadístico  
+- Excelente visualización de datos  
+- Muy usado en investigación  
 
-Ventajas:
+**Ejemplos de uso**
 
-Potente para análisis estadístico
+- Modelos predictivos  
+- Análisis de datos  
+- Visualización de resultados  
 
-Gran cantidad de paquetes para visualización de datos
+---
 
-Muy utilizado en investigación
+## ☕ Java
 
-Ejemplos de uso:
+**Uso principal en IA**
 
-Análisis de datos
+Aplicaciones empresariales con IA integrada.
 
-Modelos predictivos
+**Ventajas**
 
-Visualización de resultados
+- Alto rendimiento  
+- Escalable  
+- Integración sencilla con sistemas empresariales  
 
-Lenguaje 3
+**Ejemplos de uso**
 
-Nombre:
-Java
+- Sistemas de recomendación  
+- Plataformas financieras  
+- Sistemas de análisis de datos  
 
-Uso principal en IA:
-Desarrollo de aplicaciones empresariales con IA integrada.
+---
 
-Ventajas:
+## ⚙️ C++
 
-Alto rendimiento
+**Uso principal en IA**
 
-Escalabilidad
+Sistemas de alto rendimiento y tiempo real.
 
-Integración sencilla con sistemas empresariales
+**Ventajas**
 
-Ejemplos de uso:
+- Muy rápido  
+- Control del hardware  
+- Alta eficiencia  
 
-Sistemas de recomendación
+**Ejemplos de uso**
 
-Aplicaciones financieras
+- Robótica  
+- Visión artificial  
+- Vehículos autónomos  
 
-Sistemas de análisis de datos
+---
 
-Lenguaje 4
+# 4. Relación entre sectores, tipo de IA y lenguaje
 
-Nombre:
-C++
+| Sector | Aplicación de IA | Tipo de IA | Lenguaje recomendado | Justificación |
+|------|------|------|------|------|
+| Salud | Diagnóstico por imagen | Deep Learning / Visión artificial | Python | Librerías especializadas para análisis de imágenes |
+| Comercio electrónico | Recomendación de productos | Machine Learning | Python | Facilita el análisis de grandes datos de usuarios |
+| Transporte | Conducción autónoma | Visión artificial / Deep Learning | C++ | Alto rendimiento para sistemas en tiempo real |
 
-Uso principal en IA:
-Desarrollo de sistemas de alto rendimiento y aplicaciones en tiempo real.
+---
 
-Ventajas:
+# 5. Diagrama
 
-Gran velocidad de ejecución
+```mermaid
+graph TD
 
-Control sobre los recursos del sistema
+A[Inteligencia Artificial]
 
-Muy utilizado en robótica y vehículos autónomos
+A --> B[Salud]
+A --> C[Comercio electrónico]
+A --> D[Transporte]
 
-Ejemplos de uso:
+B --> E[Diagnóstico por imagen]
+C --> F[Sistemas de recomendación]
+D --> G[Conducción autónoma]
 
-Robótica
+E --> H[Python]
+F --> H
+G --> I[C++]
+```
+---
 
-Visión artificial
+# 6. Riesgos y mitigación
 
-Sistemas de conducción autónoma
+## Riesgo 1
+Uso incorrecto de datos personales o problemas de privacidad.
 
-4) Relación entre sectores, tipo de IA y lenguaje
-| Sector               | Aplicación de IA           | Tipo de IA/técnica                       | Lenguaje recomendado | Justificación                                                   |
-| -------------------- | -------------------------- | ---------------------------------------- | -------------------- | --------------------------------------------------------------- |
-| Salud                | Diagnóstico por imagen     | Deep Learning / Visión artificial        | Python               | Gran cantidad de librerías para análisis de imágenes médicas    |
-| Comercio electrónico | Recomendación de productos | Machine Learning                         | Python               | Facilita el análisis de datos de usuarios                       |
-| Transporte           | Conducción autónoma        | Visión artificial y aprendizaje profundo | C++                  | Permite ejecutar algoritmos en tiempo real con alto rendimiento |
+**Mitigación**
 
+- Aplicar normativas de protección de datos  
+- Anonimizar la información  
 
-5) Diagrama (Mermaid)
-(Pega aquí el diagrama)
+---
 
-## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+## Riesgo 2
+Dependencia excesiva de sistemas automatizados.
 
-## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+**Mitigación**
 
-## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- Supervisión humana  
+- Auditorías periódicas de los sistemas de IA
+
+---
+
+# 7. Conclusión
+
+**Sectores que destacan**
+
+Los sectores de salud, comercio electrónico y transporte destacan por la gran cantidad de datos que manejan y por el impacto positivo que la IA tiene en eficiencia y precisión.
+
+**Lenguajes más utilizados**
+
+Python aparece como el lenguaje más utilizado en inteligencia artificial debido a su facilidad de uso y su amplio ecosistema de librerías.
+
+**Importancia para DAW/DAM**
+
+Para los desarrolladores web y de aplicaciones, conocer estas tecnologías permite integrar funciones inteligentes como:
+
+- análisis de datos
+- automatización
+- sistemas de recomendación
+- asistentes virtuales
