@@ -274,5 +274,18 @@ Para los desarrolladores web y de aplicaciones, conocer estas tecnologías permi
 
 # 8. Fuentes oficiales
 
-- IBM – Aplicaciones de IA en diferentes industrias  
-- IEEE – Tecnologías y lenguajes utilizados en inteligencia artificial
+**Fuente 1 (sectores / aplicación IA)**  
+IBM – Artificial Intelligence Business Use Cases  
+https://www.ibm.com/think/topics/artificial-intelligence-business-use-cases
+
+**Fuente 2 (IA en empresas y organizaciones)**  
+IBM – AI in the Workplace  
+https://www.ibm.com/think/topics/ai-in-the-workplace
+
+**Fuente 3 (ejemplos de aplicaciones de IA en distintas industrias)**  
+IBM Community – AI and industry applications  
+https://community.ibm.com/community/user/ai-datascience/blogs/scott-dunn/2023/04/27/embracing-the-future-ibm-and-the-expanding-world-o
+
+**Fuente 4 (proyectos y desarrollo de IA)**  
+Wikipedia – IBM Project Debater  
+https://en.wikipedia.org/wiki/Project_Debater
